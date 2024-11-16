@@ -5,7 +5,6 @@
 This is a project I am developing to serve as both a portfolio sample and a way to enhance my programming skills.
 It allows me to apply my knowledge across different domains and combine various technologies to solve a specific problem.
 
----
 ## Problem Definition:
 
 In engineering projects, material management is a critical stage that directly impacts the efficiency, costs, and execution of the project. The creation of detailed and well-organized material lists is essential to meet the needs of different sectors involved in the process.
@@ -21,3 +20,17 @@ Additionally, a lack of integration between different project sectors can hinder
 
 This system proposes a technological solution to centralize, organize, and simplify the creation and management of material lists, ensuring greater accuracy and improved communication across the sectors involved.
 
+**Stack**
+
+This system uses the MERN stack (MongoDB, Express, React, and Node.js).
+
+The project is divided into two main folders: backend and frontend.
+To install dependencies and run the application, you need to execute the commands in each respective directory.
+
+**Backend**
+```sh
+cd backend #move to backend`s directory
+npm run start #production mode
+npm run dev #development mode
+npm run test #run tests with jest
+```
